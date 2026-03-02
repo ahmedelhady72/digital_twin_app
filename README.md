@@ -112,7 +112,3 @@ This project showcases:
 
 ---
 
-## 👨‍💻 Author
-
-Ahmed Elhady Mahmoud  
-DevOps & AI Enthusiast
